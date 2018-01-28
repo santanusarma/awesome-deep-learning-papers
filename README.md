@@ -176,7 +176,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 <!---[Key researchers]  [Alex Graves](https://scholar.google.ca/citations?user=DaFHynwAAAAJ), [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), [Dong Yu](https://scholar.google.ca/citations?hl=en&user=tMY31_gAAAAJ)-->
 
 ### Reinforcement Learning / Robotics
-- **End-to-end training of deep visuomotor policies** (2016), S. Levine et al. [[pdf]](http://www.jmlr.org/papers/volume17/15-522/source/15-522.pdf)
+- **End-to-end training of deep visuomotor policies** (2016), S. Levine et al. [[pdf]](https://arxiv.org/abs/1504.00702)
 - **Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection** (2016), S. Levine et al. [[pdf]](https://arxiv.org/pdf/1603.02199)
 - **Asynchronous methods for deep reinforcement learning** (2016), V. Mnih et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/mniha16.pdf)
 - **Deep Reinforcement Learning with Double Q-Learning** (2016), H. Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf )
